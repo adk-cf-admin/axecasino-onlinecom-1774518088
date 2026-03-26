@@ -1,0 +1,19 @@
+{
+  "name": "Axe Casino",
+  "short_name": "Axe Casino",
+  "theme_color": "",
+  "background_color": "#1F1E3F",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1774517694-favicon-13.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
